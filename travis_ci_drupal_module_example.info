@@ -1,4 +1,4 @@
-name = Travis-CI Drupal Module Example
+name = Travis-CI Drupal Module Example Test
 description = An example of how to configure Travis-CI for a Drupal module.
 package = Development
 php = 5.3
